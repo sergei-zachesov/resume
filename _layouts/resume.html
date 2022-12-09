@@ -54,7 +54,7 @@
     <section class="content-section">
 
         <header class="section-header">
-            <h2>Experience</h2>
+            <h2>Опыт работы</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -62,6 +62,7 @@
             <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
             <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
             <p class="resume-item-copy">{{ job.summary }}</p>
+            <p class="resume-item-copy">Технологии: {{ job.stack }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -131,9 +132,7 @@
         {% for skill in site.data.skills %}
         <!--        <div class="resume-item">-->
         <div class="resume-item-skill">
-            <!--            <h4 class="resume-item-details">{{ skill.skill }}</h4>-->
             <h4 class="resume-item-details-skill">{{ skill.skill }}:</h4>
-            <!--            <p class="resume-item-copy">{{ skill.description }}</p>-->
             <p class="resume-item-copy-skill">{{ skill.description }}</p>
 
         </div>
