@@ -16,6 +16,15 @@
 - company: АО «Клио-софт»
   position: Программист
   duration: Май 2014 &mdash; Апрель 2022
-  summary: Java разработка. Разработка плагинов для PLM Teamcenter.<br> Технологии Java 8, Teamcenter API java, JDBC, Oracle DB<br>
+  summary: Java разработка. Разработка плагинов для PLM Teamcenter.<br> Технологии&colon; Java 8, Teamcenter API java, JDBC, Oracle DB<br>
     <p class="resume-item-copy">Разработчик постпроцессоров и кинематических моделей</p>
-#    <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+    <ul class="resume-item-list"><li>Разработка постпроцессоров для программы NX в среде Postbuilder на языке tcl</li>
+    <li>Отработка постпроцессоров на оборудовании заказчика с изготовлением тестовой детали</li>
+    <li>Создание кинематической модели для внестаночного контроля и разработка контроллера</li>
+    <li>Обучение и написание документации по работе с постпроцессором и кинематической модели оборудования</li></ul><br>
+    <p class="resume-item-copy">Руководитель рабочей группы, Технолог-программист станков с ЧПУ. Разработка и внедрение управляющих программ на станки с ЧПУ</p>
+
+- company: ПАО «Туполев»
+  position: Инженер-конструктор
+  duration: Апрель 2022 &mdash; по настоящее время
+  summary: Разработка деталей и узлов каркаса летательных аппаратов
