@@ -85,7 +85,8 @@
             <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
             <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year
                 }}</h4>
-            <p class="resume-item-copy">{{ education.uri }}</p>
+            <p class="resume-item-copy"><a href="{{ education.uri }}"
+                                           itemprop="url">{{ education.uri }}</a></p>
         </div>
         {% endfor %}
     </section>
