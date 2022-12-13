@@ -10,10 +10,11 @@
 - company: Java Online Projects
   position: Java-разработчик
   duration: Декабрь 2021 &mdash; Апрель 2022
-  summary: Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. Открытый проект <a href="https://github.com/SergeiZachesov/topjava.git">https://github.com/SergeiZachesov/topjava.git</a>
+  summary: Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. Открытый проект <a href="https://github.com/SergeiZachesov/topjava.git">Открытый проект</a>
   stack: Java 17, Spring (Boot, MVC, Data JBDC, Data JPA, Security, Web), Java Servlet APIs, JSP, HTML, CSS, REST(Jackson), Postgres, HSQLDB, JUnit, Bootstrap (css/js), datatables, jQuery
 
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration: Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: АО «Клио-софт»
+  position: Программист
+  duration: Май 2014 &mdash; Апрель 2022
+  summary: Java разработка. Разработка плагинов для PLM Teamcenter.<br> Java 8, Teamcenter API java, JDBC, Oracle DB<br> >
+    Разработчик постпроцессоров и кинематических моделей
