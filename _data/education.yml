@@ -1,5 +1,18 @@
 # Degree
 - degree: Повышение квалификации
   uni: Topjava
+  specialization: java-develop
   year: 2022г.
-  uri: https://topjava.ru/topjava
+  url: https://topjava.ru/topjava
+
+- degree: Повышение квалификации
+  uni: Javarush
+  specialization: java-develop
+  year: 2021г.
+  uri: https://javarush.ru/
+
+- degree: Высшее образование
+  uni: Московский авиационный институт (национальный исследовательский университет)
+  specialization: Аэрокосмический факультет, Ракетные транспортные системы
+  year: 2013г.
+  url: https://javarush.ru/
