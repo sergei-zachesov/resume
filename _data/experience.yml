@@ -10,7 +10,7 @@
 - company: Java Online Projects
   position: Java-разработчик
   duration: Декабрь 2021 &mdash; Апрель 2022
-  summary: Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. Открытый проект <a href="https://github.com/SergeiZachesov/topjava.git">Открытый проект</a>
+  summary: Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. <a href="https://github.com/SergeiZachesov/topjava.git">Открытый проект</a>
   stack: Java 17, Spring (Boot, MVC, Data JBDC, Data JPA, Security, Web), Java Servlet APIs, JSP, HTML, CSS, REST(Jackson), Postgres, HSQLDB, JUnit, Bootstrap (css/js), datatables, jQuery
 
 - company: АО «Клио-софт»

@@ -62,7 +62,9 @@
             <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
             <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
             <p class="resume-item-copy">{{ job.summary }}</p>
+            {% if job.stack != '' or job.stack != null %}
             <p class="resume-item-copy">Технологии: {{ job.stack }}</p>
+            {% endif %}
         </div><!-- end of resume-item -->
         {% endfor %}
 
