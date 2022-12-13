@@ -17,7 +17,7 @@
   position: Программист
   duration: Май 2014 &mdash; Апрель 2022
   summary: Java разработка
-    <ul class="resume-item-list"><li>Разработка плагинов для PLM Teamcenter (Java 8, Teamcenter API java, JDBC, Oracle DB)</li></ul>
+    <ul class="resume-item-list"><li>Разработка интеграционных плагинов для PLM Teamcenter (Java 8, Teamcenter API, JDBC, Oracle DB)</li></ul>
     <p class="resume-item-copy">Разработчик постпроцессоров и кинематических моделей</p>
     <ul class="resume-item-list"><li>Разработка постпроцессоров для программы NX в среде Postbuilder на языке tcl</li>
     <li>Отработка постпроцессоров на оборудовании заказчика с изготовлением тестовой детали</li>
