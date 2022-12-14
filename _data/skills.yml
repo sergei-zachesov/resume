@@ -9,7 +9,7 @@
   description: IoC, Boot, MVC, Web, Data JPA, Data JDBC Template, Security, Test, Cloud
 
 - skill: Test
-  description: JUnit, Mockito
+  description: JUnit, Mockito, Postman
 
 - skill: Web
   description: REST API, JSON, XML, HTML
@@ -24,4 +24,4 @@
   description: IntelliJ IDEA
 
 - skill: DevOps
-  description: Postman, Docker
+  description: Docker
