@@ -9,58 +9,58 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Сергей Зачесов"
-resume_title:                   "Java-разработчик"
+resume_avatar: "true"
+resume_name: "Сергей Зачесов"
+resume_title: "Java-разработчик"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "szachesov@yandex.ru"
-resume_contact_telegram:        "szachesov"
+resume_contact_email: "szachesov@yandex.ru"
+resume_contact_telegram: "szachesov"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+7(926)268-43-76"
-resume_contact_address:         "г. Москва"
+resume_contact_telephone: "+7(926)268-43-76"
+resume_contact_address: "г. Москва"
 
-resume_header_contact_info:     'г. Москва • +7(926)268-43-76 • <a href="mailto:szachesov@yandex.ru">szachesov@yandex.ru</a>'
-display_header_contact_info:    "true"
+resume_header_contact_info: 'г. Москва • +7(926)268-43-76 • <a href="mailto:szachesov@yandex.ru">szachesov@yandex.ru</a>'
+display_header_contact_info: "true"
 
-resume_header_intro: "<p>Привет! Меня зовут Сергей. Я Java-разработчик. Разрабатываю веб-сервисы в экономики госсектора.
+resume_header_intro: "<p>Привет! Меня зовут Сергей. Я Java-разработчик. Разрабатываю веб-сервисы для государственного сектора экономики.
 Программирую на Java 3+ года. Разрабатывал программное обеспечение для промышленных комплексов и станков с ЧПУ.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_languages:       true
-resume_section_recognition:     false
-resume_section_links:           false
-resume_section_associations:    false
+resume_section_experience: true
+resume_section_education: true
+resume_section_projects: true
+resume_section_skills: true
+resume_section_languages: true
+resume_section_recognition: false
+resume_section_links: false
+resume_section_associations: false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/sergei-zachesov"
- # resume_twitter_url:           "http://twitter.com/jglovier"
- # resume_dribbble_url:          "https://dribbble.com/jag"
- # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://linkedin.com/in/sergei-zachesov-b3b6b562"
+  resume_github_url: "https://github.com/sergei-zachesov"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url: "https://linkedin.com/in/sergei-zachesov-b3b6b562"
   # resume_instagram_url:         "insert your Instagram URL here"
   #  resume_website_url:           "http://joelglovier.com"
   #  resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+resume_print_social_links: true
 
 
 # Design settings
-resume_theme:                   default
+resume_theme: default
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
