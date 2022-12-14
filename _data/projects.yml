@@ -1,16 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: RESTful приложения с микросервесной архитектурой Spring Cloud
+  url: https://github.com/sergei-zachesov/spring-cloud-microservices
+  description: 'Технологии: Spring Boot, Spring Data JPA, Gradle, RabbitMQ, Docker, JUnit'
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: REST сервис администратора сетевой игры
+  url: https://github.com/sergei-zachesov/javarush-game
+  description: 'Технологии: Maven, Spring MVC, Spring Data JPA, REST (Jackson), PostgreSQL'

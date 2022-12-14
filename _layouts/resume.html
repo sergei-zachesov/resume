@@ -99,7 +99,7 @@
     <!-- begin Projects -->
     <section class="content-section">
         <header class="section-header">
-            <h2>Projects</h2>
+            <h2>Проекты</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -108,7 +108,7 @@
             <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}"
                                                                                  itemprop="url">{{ project.project
                 }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-            <h4 class="resume-item-details" itemprop="description">{{ project.role }} &bull; {{ project.duration }}</h4>
+<!--            <h4 class="resume-item-details" itemprop="description">{{ project.role }} &bull; {{ project.duration }}</h4>-->
             <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
