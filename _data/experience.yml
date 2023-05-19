@@ -4,7 +4,7 @@
   position: Java-разработчик
   duration: Апрель 2022 &mdash; по настоящее время
   summary: Разработка сервиса формирования предельных цен государственных контрактов для Департамента экономической политики и развития города Москвы.
-  stack: Java 8+, Spring (Boot, Data, MVC, Security, Web), Git, Gradle, Lombok, OpenApi/Swagger, REST API (Controllers, DTO, mappers), PostgreSQL
+  stack: Java 8+, Spring (Boot, Data, MVC, Security, Web), Git, Gradle, Lombok, MapStruct, OpenApi/Swagger, REST API, PostgreSQL, Elasticsearch, Flyway
 #  <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 - company: Java Online Projects

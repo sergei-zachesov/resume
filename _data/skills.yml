@@ -18,7 +18,7 @@
   description: Maven, Gradle
 
 - skill: Database
-  description: PostgreSQL, MySQL, HSQLDB, H2
+  description: PostgreSQL, MySQL, HSQLDB, H2, Elasticsearch, Flyway
 
 - skill: IDE
   description: IntelliJ IDEA
