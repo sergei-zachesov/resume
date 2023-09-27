@@ -1,9 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: RESTful приложение с микросервесной архитектурой Spring Cloud
-  url: https://github.com/sergei-zachesov/spring-cloud-microservices
-  description: 'Технологии: Spring Boot, Spring Data JPA, Gradle, RabbitMQ, Docker, JUnit'
+#- project: RESTful приложение с микросервесной архитектурой Spring Cloud
+#  url: https://github.com/sergei-zachesov/spring-cloud-microservices
+#  description: 'Технологии: Spring Boot, Spring Data JPA, Gradle, RabbitMQ, Docker, JUnit'
 
 # Springfield Community Outreach Group
 - project: REST сервис администратора сетевой игры

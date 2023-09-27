@@ -4,13 +4,13 @@
   position: Java-разработчик
   duration: Апрель 2022 &mdash; по настоящее время
   summary: Разработка сервиса формирования предельных цен государственных контрактов для Департамента экономической политики и развития города Москвы.
-  stack: Java 8+, Spring (Boot, Data, MVC, Security, Web), REST API, PostgreSQL, Elasticsearch, Gradle, Testconteiners, Git, Lombok, MapStruct, OpenApi/Swagger, Flyway, Apache POI
+  stack: Java 8-17, Spring (Boot, Data, MVC, Security, Web), REST API, PostgreSQL, Elasticsearch, Gradle, Testconteiners, Git, Lombok, MapStruct, OpenApi/Swagger, Flyway, Apache POI
 #  <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 - company: Java Online Projects
   position: Java-разработчик
   duration: Декабрь 2021 &mdash; Апрель 2022
-  summary: Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. <a href="https://github.com/SergeiZachesov/topjava.git">Открытый проект</a>
+  summary: Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. <a href="https://github.com/sergei-zachesov/topjava">Открытый проект</a>
   stack: Java 17, Spring (Boot, MVC, Data JBDC, Data JPA, Security, Web), Java Servlet APIs, JSP, HTML, CSS, REST(Jackson), Postgres, HSQLDB, JUnit, Bootstrap (css/js), datatables, jQuery
 
 - company: АО «Клио-софт»
